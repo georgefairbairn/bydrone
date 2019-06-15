@@ -96,6 +96,10 @@ header {
   min-height: 100vh;
 }
 
+#bgvid {
+  width: 100%;
+}
+
 .caption {
   position: absolute;
   top: 38%;
